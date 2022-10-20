@@ -1,0 +1,47 @@
+{
+  "firstName": "Riley",
+  "middleName": " ",
+  "lastName": "Vickers",
+  "avatar": "\/images\/me.png",
+  "titles": [
+    "a membrane scientist.",
+    "here for a good time, not a long time.",
+    "debugging some code.",
+    "making some pasta.",
+    "running in snowshoes.",
+    "a mountain biker.",
+    "an environmental engineer.",
+    "querying the database.",
+    "observing mass transport.",
+    "into fermenting things.",
+    "a Longhorn.",
+    "using the supercomputer.",
+    "currently sleeping.",
+    "listening to Death Grips.",
+    "evaluating a hypothesis.",
+    "eating a pizza.",
+    "a trail runner.",
+    "a computational physicist.",
+    "a dog lover.",
+    "plotting some data.",
+    "at the beach.",
+    "built for speed.",
+    "a data scientist.",
+    "hopefully skiing.",
+    "in the machine.",
+    "a coffee roaster.",
+    "running some simulations.",
+    "a Tarheel.",
+    "right behind you."
+  ],
+  "socialNetworks": [
+    {
+      "link": "https://github.com/rileyvickers" ,
+      "iconName": "faGithub"
+    },
+    {
+      "link": "https://scholar.google.com/citations?user=pqm4PoMAAAAJ&hl=en",
+      "iconName": "faGoogle"
+    }
+  ]
+}

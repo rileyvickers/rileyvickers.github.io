@@ -1,0 +1,44 @@
+{
+  "education": [
+    {
+      "period": "2017 – Present",
+      "school": "The University of North Carolina at Chapel Hill",
+      "degree": "Ph.D. in Environmental Sciences and Engineering",
+      "description": ""
+    },
+    {
+      "period": "2012 – 2016",
+      "school": "The University of Texas at Austin",
+      "degree": "B.S. in Civil Engineering",
+      "description": ""
+    }
+  ],
+  "fellowships": [
+    {      
+      "period": "2017 - Present",
+      "company": "UNC Graduate School",
+      "title": "Caroline H. and Thomas S. Royster Fellow",
+      "description": ""
+    },
+    {      
+      "period": "2019 - 2022",
+      "company": "National Science Foundation",
+      "title": "Graduate Research Fellow",
+      "description": ""
+    },
+    {      
+      "period": "2016",
+      "company": "UT Equal Opportunity in Engineering",
+      "title": "Summer Fellow",
+      "description": ""
+    }
+  ],
+  "grants": [
+    {      
+      "period": "2020 - 2022",
+      "company": "XSEDE High Performance Computing Allocation",
+      "title": "National Science Foundation",
+      "description": "Role: Lead Writer Value: $115,000"
+    }
+  ]
+}

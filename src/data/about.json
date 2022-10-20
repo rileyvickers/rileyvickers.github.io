@@ -1,0 +1,55 @@
+{
+  "username": "Riley Vickers",
+  "avatar": "\/images\/avatar-primary-bg.svg",
+  "fam": "\/images\/doodle.svg",
+  "objective": "<p> I am currently a PhD Candidate in environmental engineering at the University of North Carolina at Chapel Hill. My research focuses on molecular-scale simulations of mass transport in membrane materials used for desalination and water reuse. <\/p> <p> Generally, my research interests involve multiscale computational physics, spanning from the continuum scale down to the atomistic. I'm interested in developing coarse-grain transformations for atomistic simulations of polymeric materials, which will bring insights generated at the molecular-scale to useful continuum scale models.<\/p>",
+  "resumeUrl": "#",
+  "skills": [
+    {
+      "name": "Membrane Science",
+      "confidence": 100,
+      "color": "rgb(255, 209, 92)"
+    },
+    {
+      "name": "Computational Physics",
+      "confidence": 100,
+      "color": "rgb(255, 209, 92)"
+    },
+    {
+      "name": "Data Science",
+      "confidence": 100,
+      "color": "rgb(255, 209, 92)"
+    },
+    {
+      "name": "Python, C++, Linux, git",
+      "confidence": 100,
+      "color": "rgb(255, 209, 92)"
+    }
+  ],
+  "statistics": [
+    {
+      "number": 28,
+      "title": "Open-source projects",
+      "iconPrefix": "fab",
+      "iconName": "osi"
+    },
+    {
+      "number": 59,
+      "title": "Projects completed",
+      "iconPrefix": "fas",
+      "iconName": "tasks"
+    },
+    {
+      "number": 3285,
+      "title": "Cup of coffee",
+      "iconPrefix": "fas",
+      "iconName": "coffee"
+    },
+    {
+      "number": 2,
+      "title": "Publications",
+      "iconPrefix": "far",
+      "iconName": "newspaper"
+    }
+  ]
+}
