@@ -4,6 +4,7 @@
   "repository": "https://github.com/rileyvickers/personal-website",
   "author": "Riley Vickers",
   "license": "MIT",
+  "homepage": "https://rileyvickers.github.io",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.1.2",
     "@fortawesome/free-brands-svg-icons": "^6.1.2",
@@ -16,6 +17,7 @@
     "@types/smoothscroll-polyfill": "^0.3.1",
     "@types/styled-components": "^5.1.26",
     "bootstrap": "^5.2.0",
+    "gh-pages": "^4.0.0",
     "node-sass": "^7.0.1",
     "react": "^18.2.0",
     "react-animation": "^1.2.2",
@@ -34,6 +36,8 @@
     "tsparticles-engine": "^2.2.2"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -b master -d build",
     "start": "webpack serve --open",
     "build": "webpack --config webpack.config.ts",
     "dev": "webpack serve --static ./build --hot --port 3000 --open"
