@@ -46,7 +46,7 @@ export class About extends React.Component {
                   <div className="text-center" >
                     <a href="https://github.com/rileyvickers" className="btn btn-kd mt-1 mb-1" target="_blank" rel="noopener noreferrer">My Github</a> 
                     <a href="https://scholar.google.com/citations?user=pqm4PoMAAAAJ&hl=en&oi=ao" className="btn btn-kd ms-3 me-3 mt-1 mb-1" target="_blank" rel="noopener noreferrer">My Google Scholar</a> 
-                    <a href="./public/docs/cv.pdf" className="btn btn-kd mt-1 mb-1" target="_blank" rel="noopener noreferrer">My CV</a>
+                    <a href={about.resumeUrl} className="btn btn-kd mt-1 mb-1" target="_blank" rel="noopener noreferrer">My CV</a>
                   </div>
                 </Col>
               </Row>

@@ -3,7 +3,7 @@
   "avatar": "\/images\/avatar-primary-bg.svg",
   "fam": "\/images\/doodle.svg",
   "objective": "<p> I am currently a PhD Candidate in environmental engineering at the University of North Carolina at Chapel Hill. My research focuses on molecular-scale simulations of mass transport in membrane materials used for desalination and water reuse. <\/p> <p> Generally, my research interests involve multiscale computational physics, spanning from the continuum scale down to the atomistic. I'm interested in developing coarse-grain transformations for atomistic simulations of polymeric materials, which will bring insights generated at the molecular-scale to useful continuum scale models.<\/p>",
-  "resumeUrl": "#",
+  "resumeUrl": "\/docs\/cv.pdf",
   "skills": [
     {
       "name": "Membrane Science",
