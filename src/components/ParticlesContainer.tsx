@@ -74,13 +74,13 @@ export class ParticlesContainer extends React.Component {
                 enable: true
               },
               move: {
-                drift: .001,
+                drift: .01,
                 direction: 'right',
                 enable: true,
                 outModes: {
                   default: 'out'
                 },
-                decay: .00001,
+                decay: .0001,
                 random: false,
                 speed: 2,
                 straight: false
