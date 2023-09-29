@@ -1,7 +1,7 @@
 {
   "education": [
     {
-      "period": "2017 – Present",
+      "period": "2017 – 2023",
       "school": "The University of North Carolina at Chapel Hill",
       "degree": "Ph.D. in Environmental Sciences and Engineering",
       "description": ""
@@ -35,10 +35,10 @@
   ],
   "grants": [
     {      
-      "period": "2020 - 2022",
+      "period": "2020 - 2023",
       "company": "XSEDE High Performance Computing Allocation",
       "title": "National Science Foundation",
-      "description": "Role: Lead Writer Value: $115,000"
+      "description": "Role: Lead Writer Value: $250,000"
     }
   ]
 }

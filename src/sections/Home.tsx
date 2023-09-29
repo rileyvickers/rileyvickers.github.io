@@ -48,17 +48,17 @@ export class Home extends React.Component {
             </ul>
 
             <div className="mt-4">
-              <a href="mailto:riley.vickers@unc.edu" className="btn btn-kd">Contact me</a>
+              <a href="mailto:rileyvic@umich.edu" className="btn btn-kd">Contact me</a>
             </div>
           </div>
-          <div className="scroll-down">
+          {/* <div className="scroll-down">
             <Scroller href="#about" className="mouse-wrapper">
               <span>Scroll Down</span>
               <span className="mouse">
                 <span className="wheel" />
               </span>
             </Scroller>
-          </div>
+          </div> */}
         </Container>
       </section>
     )
