@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rileyvickers/rileyvickers.github.io/static/css/main.868ca6d4.css",
+    "main.js": "/rileyvickers/rileyvickers.github.io/static/js/main.f1761732.js",
+    "static/js/453.253ccfac.chunk.js": "/rileyvickers/rileyvickers.github.io/static/js/453.253ccfac.chunk.js",
+    "index.html": "/rileyvickers/rileyvickers.github.io/index.html",
+    "main.868ca6d4.css.map": "/rileyvickers/rileyvickers.github.io/static/css/main.868ca6d4.css.map",
+    "main.f1761732.js.map": "/rileyvickers/rileyvickers.github.io/static/js/main.f1761732.js.map",
+    "453.253ccfac.chunk.js.map": "/rileyvickers/rileyvickers.github.io/static/js/453.253ccfac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.868ca6d4.css",
+    "static/js/main.f1761732.js"
+  ]
+}
