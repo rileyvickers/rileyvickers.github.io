@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/rileyvickers.com/static/css/main.868ca6d4.css",
-    "main.js": "/rileyvickers.com/static/js/main.edb05e22.js",
-    "static/js/453.253ccfac.chunk.js": "/rileyvickers.com/static/js/453.253ccfac.chunk.js",
-    "index.html": "/rileyvickers.com/index.html",
-    "main.868ca6d4.css.map": "/rileyvickers.com/static/css/main.868ca6d4.css.map",
-    "main.edb05e22.js.map": "/rileyvickers.com/static/js/main.edb05e22.js.map",
-    "453.253ccfac.chunk.js.map": "/rileyvickers.com/static/js/453.253ccfac.chunk.js.map"
+    "main.css": "/static/css/main.868ca6d4.css",
+    "main.js": "/static/js/main.fd670d12.js",
+    "static/js/453.253ccfac.chunk.js": "/static/js/453.253ccfac.chunk.js",
+    "index.html": "/index.html",
+    "main.868ca6d4.css.map": "/static/css/main.868ca6d4.css.map",
+    "main.fd670d12.js.map": "/static/js/main.fd670d12.js.map",
+    "453.253ccfac.chunk.js.map": "/static/js/453.253ccfac.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.868ca6d4.css",
-    "static/js/main.edb05e22.js"
+    "static/js/main.fd670d12.js"
   ]
 }
